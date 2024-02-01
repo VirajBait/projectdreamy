@@ -32,7 +32,7 @@ body {
   height: 200px;
   transform: translateY(-80px);
   z-index: 99;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 img {
